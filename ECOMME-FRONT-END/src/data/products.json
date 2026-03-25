@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Air Max 270",
+        "description": "Iconic silhouette featuring the largest Nike Air unit ever created in a lifestyle shoe. Delivers all-day comfort with bold, expressive style.",
+        "price": 150.0,
+        "stock": 45,
+        "category": "Sneakers",
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 2,
+        "name": "Adidas Ultraboost 23",
+        "description": "Engineered for epic energy return. Primeknit+ upper wraps your foot in adaptive comfort while the Boost midsole propels every stride.",
+        "price": 190.0,
+        "stock": 32,
+        "category": "Sneakers",
+        "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 3,
+        "name": "Converse Chuck Taylor All Star",
+        "description": "A cultural icon for over a century. The timeless canvas high-top worn by athletes, musicians and rebels from every generation.",
+        "price": 65.0,
+        "stock": 80,
+        "category": "Sneakers",
+        "image": "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 4,
+        "name": "Vans Old Skool Skate",
+        "description": "The original side-stripe skate shoe. Durable suede and canvas upper with legendary Vans waffle outsole for superior boardfeel.",
+        "price": 70.0,
+        "stock": 60,
+        "category": "Sneakers",
+        "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 5,
+        "name": "New Balance 574 Classic",
+        "description": "The definitive heritage runner. ENCAP midsole technology provides lasting support and stability without sacrificing retro aesthetics.",
+        "price": 89.99,
+        "stock": 40,
+        "category": "Sneakers",
+        "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 6,
+        "name": "Puma RS-X³ Puzzle",
+        "description": "Retro-futuristic chunkiness meets modern cushioning tech. The RS-X³ remixes vintage running DNA with bold colorways.",
+        "price": 110.0,
+        "stock": 25,
+        "category": "Sneakers",
+        "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 7,
+        "name": "Apple MacBook Air M3",
+        "description": "Supercharged by M3. Impossibly thin, fanless design with a Liquid Retina display and all-day battery life.",
+        "price": 1299.0,
+        "stock": 15,
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 8,
+        "name": "Sony WH-1000XM5 Headphones",
+        "description": "Industry-leading noise cancellation with 8 microphones, 30h battery and multipoint connection for power users.",
+        "price": 348.0,
+        "stock": 28,
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 9,
+        "name": "Apple Watch Series 9",
+        "description": "Double tap. The most powerfully intelligent Apple Watch delivers advanced health insights and crash detection.",
+        "price": 399.0,
+        "stock": 22,
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 10,
+        "name": "Samsung Galaxy S24 Ultra",
+        "description": "Built-in S Pen meets titanium. 200MP camera and Galaxy AI bring smartphone photography to unprecedented heights.",
+        "price": 1199.99,
+        "stock": 18,
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 11,
+        "name": "Sony Alpha A7 IV Camera",
+        "description": "Full-frame mirrorless precision. 33MP CMOS sensor, 4K 60p video and advanced subject recognition for professionals.",
+        "price": 2499.0,
+        "stock": 8,
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 12,
+        "name": "iPad Pro 12.9\" M2",
+        "description": "The ultimate iPad experience. M2 chip powers ProMotion display and Apple Pencil hover detection at desktop-class performance.",
+        "price": 1099.0,
+        "stock": 20,
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 13,
+        "name": "Oxford Button-Down Shirt",
+        "description": "Tailored from premium 100% cotton Oxford cloth. Sharp enough for the boardroom yet relaxed for weekends.",
+        "price": 59.99,
+        "stock": 70,
+        "category": "Clothing",
+        "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 14,
+        "name": "Slim Fit Stretch Denim Jeans",
+        "description": "Modern slim-fit silhouette in four-way stretch denim. Moves with you from commute to cocktails without compromise.",
+        "price": 79.99,
+        "stock": 55,
+        "category": "Clothing",
+        "image": "https://images.unsplash.com/photo-1542272454315-4c01d7abdf4a?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 15,
+        "name": "Oversized Fleece Hoodie",
+        "description": "Ultra-heavyweight 450gsm fleece cotton in a roomy relaxed silhouette. The ultimate comfort uniform elevated.",
+        "price": 49.99,
+        "stock": 90,
+        "category": "Clothing",
+        "image": "https://images.unsplash.com/photo-1556821840-3a63f15732ce?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 16,
+        "name": "Merino Crew Neck Sweater",
+        "description": "Fine-knit from 100% grade-A merino wool. Naturally temperature-regulating and itch-free lightweight layer.",
+        "price": 119.0,
+        "stock": 30,
+        "category": "Clothing",
+        "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 17,
+        "name": "Genuine Leather Biker Jacket",
+        "description": "Full-grain lambskin constructed into a heritage moto silhouette. Asymmetric zip and supple hand feel that improves with time.",
+        "price": 349.0,
+        "stock": 12,
+        "category": "Clothing",
+        "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 18,
+        "name": "Floral Chiffon Midi Dress",
+        "description": "Fluid chiffon in a bold botanical print with flattering V-neck and airy midi length perfect for any occasion.",
+        "price": 89.0,
+        "stock": 42,
+        "category": "Clothing",
+        "image": "https://images.unsplash.com/photo-1572804013427-4d7ca7268217?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 19,
+        "name": "Ray-Ban Aviator Classic",
+        "description": "Beloved by icons since 1937. Crystal glass lenses filter UV perfectly inside a lightweight metal frame.",
+        "price": 163.0,
+        "stock": 50,
+        "category": "Accessories",
+        "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 20,
+        "name": "Waxed Canvas Backpack 30L",
+        "description": "Built to outlast trends. Water-resistant waxed canvas with leather straps and padded laptop sleeve.",
+        "price": 129.0,
+        "stock": 38,
+        "category": "Accessories",
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 21,
+        "name": "Slim RFID Leather Wallet",
+        "description": "Full-grain leather bifold with RFID-blocking inner lining, 6 card slots and cash pocket.",
+        "price": 45.0,
+        "stock": 100,
+        "category": "Accessories",
+        "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 22,
+        "name": "Noir Oud Luxury Perfume",
+        "description": "Opulent oriental woody fragrance. Rare oud wood meets bergamot and dark amber for a deep impression.",
+        "price": 220.0,
+        "stock": 20,
+        "category": "Accessories",
+        "image": "https://images.unsplash.com/photo-1541643600914-78b084683702?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 23,
+        "name": "Triple-Insulated Water Bottle 1L",
+        "description": "Vacuum-sealed 18/8 stainless steel keeps drinks ice-cold for 48h and hot for 24h. No sweat guarantee.",
+        "price": 34.99,
+        "stock": 120,
+        "category": "Accessories",
+        "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 24,
+        "name": "Gold Minimalist Watch",
+        "description": "Swiss quartz movement in brushed stainless steel case with sapphire-coated glass. Luxury that whispers.",
+        "price": 249.0,
+        "stock": 18,
+        "category": "Accessories",
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf33?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 25,
+        "name": "Vitamin C Brightening Serum 30ml",
+        "description": "20% stabilised ascorbic acid combined with hyaluronic acid. Visibly brightens and firms skin texture.",
+        "price": 39.99,
+        "stock": 65,
+        "category": "Beauty",
+        "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 26,
+        "name": "Dyson Airwrap Multi-Styler",
+        "description": "Curl, wave, smooth and dry simultaneously using Coanda airflow — no extreme heat damage finish.",
+        "price": 599.99,
+        "stock": 10,
+        "category": "Beauty",
+        "image": "https://images.unsplash.com/photo-1522338242992-e1a54906a8da?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 27,
+        "name": "Yoga Mat Pro 6mm",
+        "description": "Natural rubber base with closed-cell surface repels bacteria. Laser-printed alignment lines included.",
+        "price": 68.0,
+        "stock": 45,
+        "category": "Beauty",
+        "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 28,
+        "name": "Retinol Night Cream 50ml",
+        "description": "Clinical-strength 0.3% encapsulated retinol with niacinamide and peptides. Improves texture while you sleep.",
+        "price": 55.0,
+        "stock": 50,
+        "category": "Beauty",
+        "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 29,
+        "name": "Premium Protein Shaker 700ml",
+        "description": "Leakproof BlenderBall whisk gives you lump-free shakes in seconds. BPA-free Tritan construction.",
+        "price": 24.99,
+        "stock": 80,
+        "category": "Beauty",
+        "image": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    },
+    {
+        "id": 30,
+        "name": "Jade Facial Roller & Gua Sha Set",
+        "description": "Authentic cold jade stone roller and gua sha tool. Reduces puffiness and boosts skin circulation.",
+        "price": 29.99,
+        "stock": 70,
+        "category": "Beauty",
+        "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=800&q=80&auto=format&fit=crop",
+        "is_active": true
+    }
+]
